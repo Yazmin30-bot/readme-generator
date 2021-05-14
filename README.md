@@ -46,3 +46,25 @@
     npm install
     npm install inquirer
     ```
+
+  ## Build with 
+  * [Javascript](https://www.javascript.com/) - `Javascript`
+  * [NodeJs](https://nodejs.org/en/) - `NodeJs`
+
+  ## Links
+  * The Video of the deployed application.
+  [https://yazmin30-bot.github.io/weather-dashboard/](https://yazmin30-bot.github.io/weather-dashboard/)
+
+  * The URL of the GitHub repository
+  [https://github.com/Yazmin30-bot/readme-generator/](https://github.com/Yazmin30-bot/readme-generator/)
+
+  ## Author 
+  * **`Yazmin Tinoco`**   - [Yazmin30-bot](https://github.com/Yazmin30-bot/)
+
+  ## Contributing
+  Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. 
+  
+  
+  ## Questions
+  If you have any questions about the repo, open an issue or contact me directly at ytip30@gmail.com.
+  You can find more of my work at [Yazmin30-bot](https://github.com/Yazmin30-bot/).  
