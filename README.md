@@ -46,7 +46,13 @@
     npm install
     npm install inquirer
     ```
+  ## Usage
+  * The application will be invoked by using the following command:
 
+    ```bash
+    node index.js
+    ```
+  * The following animation demonstrates the application functionality:  
   ## Build with 
   * [Javascript](https://www.javascript.com/) - `Javascript`
   * [NodeJs](https://nodejs.org/en/) - `NodeJs`
