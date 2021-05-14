@@ -5,7 +5,7 @@
   
   Create a command-line application that dynamically generates a professional README.md file from a user's input using the [Inquirer package](https://www.npmjs.com/package/inquirer).
   
-  ## Table of Contents
+## Table of Contents
   
   *[Installation](#installation)
   
@@ -21,7 +21,7 @@
   
   *[Questions](#questions)
 
-  ## Installation
+## Installation
   * Go to the following link [https://github.com/Yazmin30-bot/readme-generator](https://github.com/Yazmin30-bot/readme-generator/) and clone it ![Git-bash commands to clone .](./Develop/Assets/images/git-bash-clone.png)
   * Go to Git-bash and page the github's with the following code
     ```
@@ -46,32 +46,33 @@
     npm install
     npm install inquirer
     ```
-  ## Usage
+## Usage
   * The application will be invoked by using the following command:
 
     ```bash
     node index.js
     ```
-  * The following animation demonstrates the application functionality: 
-  ![Gif .](./Develop/Assets/gif/readme.gif) 
-  ## Build with 
+  * The following animation demonstrates the application functionality You can find the video on the links Section : 
+   ![Gif .](./Develop/Assets/gif/readme.gif) 
+   
+## Build with 
   * [Javascript](https://www.javascript.com/) - `Javascript`
   * [NodeJs](https://nodejs.org/en/) - `NodeJs`
 
-  ## Links
+## Links
   * The Video of the deployed application.
   [https://drive.google.com/file/d/1dOyRvFZysyIUBGxYFmzcD6XoRA-J1ssl/view?usp=sharing/](https://drive.google.com/file/d/1dOyRvFZysyIUBGxYFmzcD6XoRA-J1ssl/view?usp=sharing/)
 
-  * The URL of the GitHub repository
+  * The URL of the GitHub repository.                                         
   [https://github.com/Yazmin30-bot/readme-generator/](https://github.com/Yazmin30-bot/readme-generator/)
 
-  ## Author 
+## Author 
   * **`Yazmin Tinoco`**   - [Yazmin30-bot](https://github.com/Yazmin30-bot/)
 
-  ## Contributing
+## Contributing
   Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. 
   
   
-  ## Questions
+## Questions
   If you have any questions about the repo, open an issue or contact me directly at ytip30@gmail.com.
   You can find more of my work at [Yazmin30-bot](https://github.com/Yazmin30-bot/).  
