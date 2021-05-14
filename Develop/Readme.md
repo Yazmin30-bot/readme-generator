@@ -1,10 +1,10 @@
 
-  # y
-  
+  # Readme Generator
+  ![GitHub license](https://img.shields.io/badge/license-APACHE2.0-blue.svg)
   
   ## Description
   
-  y
+  Create a readme generator file
   
   ## Table of Contents
   
@@ -12,7 +12,7 @@
   
   *[Usage](#usage)
   
-  
+  *[License](#license)
   
   *[Contributing](#contributing)
   
@@ -30,13 +30,15 @@
   
   ## Usage
   
-  y
+  Clone a project in your repositorie
   
+  ## License
   
+  This project is licensed under the [APACHE 2.0](https://www.apache.org/licenses/LICENSE-2.0.txt) license.
   
   ## Contributing
   
-  y 
+  Open an issue in my Github Profile 
   
   ## Tests
   
@@ -48,6 +50,6 @@
   
   ## Questions
   
-  If you have any questions about the repo, open an issue or contact me directly at y.
-  You can find more of my work at [y](https://github.com/y/).
+  If you have any questions about the repo, open an issue or contact me directly at ytip30@gmail.com.
+  You can find more of my work at [Yazmin30-bot](https://github.com/Yazmin30-bot/).
   
