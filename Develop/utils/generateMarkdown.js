@@ -11,7 +11,24 @@ function renderLicenseBadge(license) {
 
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
-function renderLicenseLink(license) {}
+function renderLicenseLink(license) {
+  switch (license) {
+    case 'MIT':
+      return "https://www.mit.edu/~amini/LICENSE.md"
+
+    case 'APACHE 2.0':
+      return "https://www.apache.org/licenses/LICENSE-2.0.txt"
+
+    case 'GPL 3.0':
+      return "https://www.gnu.org/licenses/gpl-3.0.txt"
+
+    case 'BSD 3':
+      return "https://docs.oracle.com/cloud/latest/big-data-discovery-cloud/BDDLG/cl_bsd_license.htm#BDDLG-concept_1F381CA11423445A90B7C3D6CB4DF612"
+
+    default:
+      return ""
+  }
+}
 
 // TODO: Create a function that returns the license section of README
 // If there is no license, return an empty string
