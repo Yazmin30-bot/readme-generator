@@ -52,14 +52,15 @@
     ```bash
     node index.js
     ```
-  * The following animation demonstrates the application functionality:  
+  * The following animation demonstrates the application functionality: 
+  ![Gif .](./Develop/Assets/gif/readme.gif) 
   ## Build with 
   * [Javascript](https://www.javascript.com/) - `Javascript`
   * [NodeJs](https://nodejs.org/en/) - `NodeJs`
 
   ## Links
   * The Video of the deployed application.
-  [https://yazmin30-bot.github.io/weather-dashboard/](https://yazmin30-bot.github.io/weather-dashboard/)
+  [https://drive.google.com/file/d/1dOyRvFZysyIUBGxYFmzcD6XoRA-J1ssl/view?usp=sharing/](https://drive.google.com/file/d/1dOyRvFZysyIUBGxYFmzcD6XoRA-J1ssl/view?usp=sharing/)
 
   * The URL of the GitHub repository
   [https://github.com/Yazmin30-bot/readme-generator/](https://github.com/Yazmin30-bot/readme-generator/)
