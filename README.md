@@ -52,7 +52,7 @@
     ```bash
     node index.js
     ```
-  * The following animation demonstrates the application functionality: 
+  * The following animation demonstrates the application functionality, Also you can find the video on the links section: 
     ![Gif .](./Develop/Assets/gif/readme.gif) 
   ## Build with 
   * [Javascript](https://www.javascript.com/) - `Javascript`
