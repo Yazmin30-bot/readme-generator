@@ -53,7 +53,7 @@
     node index.js
     ```
   * The following animation demonstrates the application functionality: 
-  ![Gif .](./Develop/Assets/gif/readme.gif) 
+    ![Gif .](./Develop/Assets/gif/readme.gif) 
   ## Build with 
   * [Javascript](https://www.javascript.com/) - `Javascript`
   * [NodeJs](https://nodejs.org/en/) - `NodeJs`
